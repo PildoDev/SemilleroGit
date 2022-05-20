@@ -40,3 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+#QUE NO QUIERO
+/src/app/initial-template
